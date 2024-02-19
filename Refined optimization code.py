@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 #!/usr/bin/env python
 # coding: utf-8
@@ -121,22 +116,3 @@ def main():
     return par
 if __name__ == "__main__":
     par = main()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
